@@ -143,4 +143,4 @@ const enemyRoster = ["Bulbasaur","Raichu","Onix","Bob","",""];
 // in the "enemyRoster" array, then add "Win" to the "outcome" array.
 // Otherwise, add "Loss" to the "outcome" array.
 
-//Console.log the "outcome" array
+//Console.log the "outcome" 
